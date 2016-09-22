@@ -1,0 +1,8 @@
+D:\Users\Ghost\Dropbox\Uni\S3\SDP\Programs\MyStack\MyStackTests\bin\Debug\MyStackTests.dll
+D:\Users\Ghost\Dropbox\Uni\S3\SDP\Programs\MyStack\MyStackTests\bin\Debug\MyStackTests.pdb
+D:\Users\Ghost\Dropbox\Uni\S3\SDP\Programs\MyStack\MyStackTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Users\Ghost\Dropbox\Uni\S3\SDP\Programs\MyStack\MyStackTests\bin\Debug\MyStack.exe
+D:\Users\Ghost\Dropbox\Uni\S3\SDP\Programs\MyStack\MyStackTests\bin\Debug\MyStack.pdb
+D:\Users\Ghost\Dropbox\Uni\S3\SDP\Programs\MyStack\MyStackTests\obj\Debug\MyStackTests.csprojResolveAssemblyReference.cache
+D:\Users\Ghost\Dropbox\Uni\S3\SDP\Programs\MyStack\MyStackTests\obj\Debug\MyStackTests.dll
+D:\Users\Ghost\Dropbox\Uni\S3\SDP\Programs\MyStack\MyStackTests\obj\Debug\MyStackTests.pdb

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace MyStack.DLL
 {
-    interface IStack<T>
+    public interface IStack<T>
     {
         /// <summary>
         /// Inserts an object to the top of the stack
@@ -21,10 +21,9 @@ namespace MyStack.DLL
         T Pop();
 
         /// <summary>
-        /// Returns an object from the top of the stack without removing it
+        /// The object from the top of the stack
         /// </summary>
-        /// <returns>The object at the top of the stack</returns>
-        T Peek();
+        T Peek { get; }
 
         /// <summary>
         /// Removes all objects from the Stack
@@ -32,9 +31,13 @@ namespace MyStack.DLL
         void Clear();
 
         /// <summary>
-        /// Gets the number of elements contained in the Stack
+        /// The number of elements contained in the Stack
         /// </summary>
-        /// <returns>The number of elements in the stock</returns>
-        int Size();
+        int Count { get; }
+
+        /// <summary>
+        /// The maximum size of the stack
+        /// </summary>
+        int MaxSize { get; set; }
     }
 }
