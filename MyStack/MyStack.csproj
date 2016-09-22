@@ -45,8 +45,8 @@
   <ItemGroup>
     <Compile Include="DLL\IStack.cs" />
     <Compile Include="DLL\MyStack.cs" />
-    <Compile Include="GUI\View.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="View\View.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
